@@ -25,8 +25,8 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Pedro Henrique Cardoso # add your name
-author-pic: Myself_Neon_grey.jpg
-about-author: My description
+author-pic: author_profile_picture.jpg
+about-author: Data Scientist, Pythonista, and Mathematics enthusiast.
 
 # Contact links
 email: ph.cardoso@outlook.com # Add your Email address
@@ -41,12 +41,12 @@ bandcamp: #armandomaynez # Add your Bandcamp username
 mailchimp: #"https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
 
 # Disqus
-discus_identifier: amaynez-github-io # Add your discus identifier
+discus_identifier: mathematical-learning #amaynez-github-io # Add your discus identifier
 comments_curtain: yes # leave empty to show the disqus embed directly
 
 # Tracker
-analytics: G-R8SZS2YBZK
-fbadmin: ar.maybach
+analytics: #G-R8SZS2YBZK
+fbadmin: #ar.maybach
 
 # Paginate
 paginate: 6
